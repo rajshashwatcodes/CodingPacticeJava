@@ -54,7 +54,7 @@ class BinaryTree {
     }
 }
 
-public class DiameterOfBinaryTreeExample {
+public class DiameterOfBinaryTree {
     public static void main(String[] args) {
         BinaryTree tree = new BinaryTree();
 
