@@ -35,7 +35,6 @@ public class ClosestElementInBinaryTree {
         }
     }
 
-    // Example usage
     public static void main(String[] args) {
         ClosestElementInBinaryTree finder = new ClosestElementInBinaryTree();
 
